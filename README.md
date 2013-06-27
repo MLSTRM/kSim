@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 &alg - load with algorithm Example: Sune - ?alg=RUR'URU2R'
 
 &keys - load with keymap Example: Heise keymap - ?keys=74,70,73,75,999,998,72,71,68,69,87,79,83,76,997,996,59,65,89,78,80,81,85,77,86,82
@@ -13,3 +14,13 @@
 &nokeys - disable keys
 
 &rfu - show R F U face only
+=======
+&alg - algorithm input
+&colours - face colours (all six need to be specified for visualcube images to work)
+&solve - scramble,solve ,,,=splits
+&macro - name,alg,name,alg
+&rfu - rfu only view
+&align - left,right,swap,centre
+&meepmode - enable meep mode
+&clear - clear local storage
+>>>>>>> upstream/master
